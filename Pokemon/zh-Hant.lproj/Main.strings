@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; configuration.title = "Not Owned"; ObjectID = "3aQ-LB-V6q"; */
+"3aQ-LB-V6q.configuration.title" = "Not Owned";
+
+/* Class = "UIButton"; normalTitle = "Not Owned"; ObjectID = "3aQ-LB-V6q"; */
+"3aQ-LB-V6q.normalTitle" = "Not Owned";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Ctw-ta-71G"; */
+"Ctw-ta-71G.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Np5-6v-DoJ"; */
+"Np5-6v-DoJ.text" = " ";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "WgP-tr-yVW"; */
+"WgP-tr-yVW.text" = "4";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Xq5-Xp-2ey"; */
+"Xq5-Xp-2ey.text" = " ";
+
+/* Class = "UIButton"; configuration.title = "Evolution"; ObjectID = "ZCe-EK-YCr"; */
+"ZCe-EK-YCr.configuration.title" = "Evolution";
+
+/* Class = "UIButton"; normalTitle = "Not Owned"; ObjectID = "ZCe-EK-YCr"; */
+"ZCe-EK-YCr.normalTitle" = "Not Owned";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "faI-9h-qNv"; */
+"faI-9h-qNv.text" = "Female";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hBK-Qs-buB"; */
+"hBK-Qs-buB.text" = " ";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "n7D-9V-SdM"; */
+"n7D-9V-SdM.text" = "5";
+
+/* Class = "UILabel"; text = "ID: "; ObjectID = "pYW-Al-npO"; */
+"pYW-Al-npO.text" = "ID: ";
+
+/* Class = "UILabel"; text = "Type(s): "; ObjectID = "xJL-ST-huf"; */
+"xJL-ST-huf.text" = "Type(s): ";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "xZd-Xg-MVb"; */
+"xZd-Xg-MVb.text" = "Male";
